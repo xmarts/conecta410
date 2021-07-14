@@ -53,3 +53,8 @@
 	path = account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
 	branch = 13.0
+
+[submodule "mail_tracking"]
+	path = mail_tracking
+	url = git@github.com:xmarts/mail_tracking.git
+	branch = 13.0

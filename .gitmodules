@@ -27,3 +27,8 @@
 	path = print_journal_entries
 	url = git@github.com:xmarts/print_journal_entries.git
 	branch = master
+
+[submodule "report-of-purse-1"]
+	path = report-of-purse-1
+	url = git@github.com:xmarts/report-of-purse-1.git
+	branch = 13.0

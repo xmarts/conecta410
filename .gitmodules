@@ -12,3 +12,8 @@
 	path = manufacturing-cost
 	url = git@github.com:xmarts/manufacturing-cost.git
 	branch = master
+
+[submodule "mrp_frescopack"]
+	path = mrp_frescopack
+	url = git@github.com:xmarts/mrp_frescopack.git
+	branch = 13.0

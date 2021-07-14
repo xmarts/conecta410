@@ -37,3 +37,8 @@
 	path = report-of-wallet
 	url = git@github.com:xmarts/report-of-wallet.git
 	branch = 13.0
+
+[submodule "xma_mrp_frescopack"]
+	path = xma_mrp_frescopack
+	url = git@github.com:xmarts/xma_mrp_frescopack.git
+	branch = 13.0

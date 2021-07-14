@@ -7,3 +7,8 @@
 	path = default_interest
 	url = git@github.com:xmarts/default_interest.git
 	branch = main
+
+[submodule "manufacturing-cost"]
+	path = manufacturing-cost
+	url = git@github.com:xmarts/manufacturing-cost.git
+	branch = master

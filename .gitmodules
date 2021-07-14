@@ -17,3 +17,8 @@
 	path = mrp_frescopack
 	url = git@github.com:xmarts/mrp_frescopack.git
 	branch = 13.0
+
+[submodule "payment_program"]
+	path = payment_program
+	url = git@github.com:xmarts/payment_program.git
+	branch = main

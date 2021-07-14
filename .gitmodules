@@ -42,3 +42,6 @@
 	path = xma_mrp_frescopack
 	url = git@github.com:xmarts/xma_mrp_frescopack.git
 	branch = 13.0
+[submodule "credit_limit_alert"]
+	path = credit_limit_alert
+	url = git@gitlab.com:xmarts/xmarts-apps/credit_limit_alert.git

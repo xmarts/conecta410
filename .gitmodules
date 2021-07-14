@@ -22,3 +22,8 @@
 	path = payment_program
 	url = git@github.com:xmarts/payment_program.git
 	branch = main
+
+[submodule "print_journal_entries"]
+	path = print_journal_entries
+	url = git@github.com:xmarts/print_journal_entries.git
+	branch = master

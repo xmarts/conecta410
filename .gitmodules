@@ -32,3 +32,8 @@
 	path = report-of-purse-1
 	url = git@github.com:xmarts/report-of-purse-1.git
 	branch = 13.0
+
+[submodule "report-of-wallet"]
+	path = report-of-wallet
+	url = git@github.com:xmarts/report-of-wallet.git
+	branch = 13.0
